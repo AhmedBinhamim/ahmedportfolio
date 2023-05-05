@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/mydesk.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "POS System Using Bridge Software Design Pattern",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This project implements a point-of-sale system using Bridge design pattern. The project focuses on how to build a system using object oritented methodology",
+    url: "https://github.com/AhmedBinhamim/POS-System-Using-Bridge-Design-Pattern",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Mars Rover Game",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "The game Mars Rover typically involves the player controlling a rover that has just landed in mars. The mission of the rover is to collect all the gold on mars as was specified by the NASA headquarters on Earth, for research purposes.",
+    url: "https://github.com/AhmedBinhamim/Mars-Rover-Game-C-",
   },
   {
-    title: "My Resume Site",
+    title: "Air Express Flight Booking System",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Air Express is a flight booking system that provides customers with a convenient and user-friendly system to search for and book flights. The system is built using a combination of front-end technologies, including HTML, CSS, and JavaScript, and a back-end technology of PHP.",
+    url: "https://github.com/AhmedBinhamim/Air-Express-Flight-Booking-System",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Fitness Management System",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "In the sports industry, fitness management systems have become increasingly popular among sports centers, gyms, and health clubs. These systems are designed to help sports center members achieve their fitness goals by providing personalized workout plans, tracking progress, and providing feedback.",
+    url: "https://github.com/AhmedBinhamim/Fitness-Management-System",
   },
 ];
 
