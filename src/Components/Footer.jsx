@@ -86,21 +86,6 @@ const Footer = (props) => {
         Created by {name}
       </p>
 
-      <p className="small" style={{ marginTop: 0, color: "white" }}>
-        Email: ahmedbinhamim@gmail.com
-      </p>
-
-      <p className="small" style={{ marginTop: 0, color: "white" }}>
-        LinkedIn: <a href="https://www.linkedin.com/in/ahmedbinhamim/">linkedin/ahmedbinhamim</a>
-      </p>
-
-      
-
-
-
-     
-
-
     </div>
   );
 };

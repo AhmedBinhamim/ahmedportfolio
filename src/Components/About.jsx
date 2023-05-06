@@ -46,7 +46,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my Software Engineering experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my Software Engineering experience I continually look for new and better ways to make tech accessible by all. Also am an active community service participant with current role as Microsoft Learn Student Ambassador";
 
 const About = () => {
   return (
