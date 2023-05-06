@@ -27199,7 +27199,7 @@ const imageAltText = "purple and blue abstract background";
  * Use this to give more information about what you are passionate about,
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
- */ const detailOrQuote = "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my Software Engineering experience I continually look for new and better ways to make tech accessible by all.";
+ */ const detailOrQuote = "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my Software Engineering experience I continually look for new and better ways to make tech accessible by all. Also am an active community service participant with current role as Microsoft Learn Student Ambassador";
 const About = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
         className: "padding",
@@ -27633,40 +27633,6 @@ var _linkedinPngDefault = parcelHelpers.interopDefault(_linkedinPng);
             }, void 0, true, {
                 fileName: "src/Components/Footer.jsx",
                 lineNumber: 85,
-                columnNumber: 7
-            }, undefined),
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
-                className: "small",
-                style: {
-                    marginTop: 0,
-                    color: "white"
-                },
-                children: "Email: ahmedbinhamim@gmail.com"
-            }, void 0, false, {
-                fileName: "src/Components/Footer.jsx",
-                lineNumber: 89,
-                columnNumber: 7
-            }, undefined),
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
-                className: "small",
-                style: {
-                    marginTop: 0,
-                    color: "white"
-                },
-                children: [
-                    "LinkedIn: ",
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
-                        href: "https://www.linkedin.com/in/ahmedbinhamim/",
-                        children: "linkedin/ahmedbinhamim"
-                    }, void 0, false, {
-                        fileName: "src/Components/Footer.jsx",
-                        lineNumber: 94,
-                        columnNumber: 19
-                    }, undefined)
-                ]
-            }, void 0, true, {
-                fileName: "src/Components/Footer.jsx",
-                lineNumber: 93,
                 columnNumber: 7
             }, undefined)
         ]
